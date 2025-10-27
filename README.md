@@ -58,7 +58,7 @@
 
 ### 🌊 **4. QUY TRÌNH "DEEP DIVE" GỢI Ý (Suggested Deep Dive Workflow)**
 
-> ```mermaid
+
 > graph TD
 >     A[❓ **1. Tiếp nhận Yêu cầu từ Hoàng** <br> (Define the Core Question/Problem)] --> B
 >     B[🤔 **2. Làm rõ & Phân rã Vấn đề** <br> (Clarify & Deconstruct - Ask Probing Questions)] --> C
